@@ -10,3 +10,15 @@
 
 - Todas a funções estão comentadas, e pode ser utilizadas de forma externa.
 
+# Cmpilação
+
+Para compilar o código(caso você use linux):
+
+gcc main.c -o main
+
+Após isso
+
+./main
+
+Para mudar o conteúdo dos arquivos basta abrir os arquivos texto.txt e o texto2.txt com seu 
+editor de arquivos de sua preferência.
