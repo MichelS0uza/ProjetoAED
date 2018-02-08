@@ -4,7 +4,7 @@
 
 - O programa usa a estratégia de programação dinâmica para poder comparar a semelhança de strings.
 
-- Com esse programa você pode comprar a similaridade de arquivos também.
+- Com esse programa você pode comparar a similaridade de arquivos também.
 
 - O código precisa ser revisado na parte de manupução de arquivos, tirando isso está funcionando ok!
 
